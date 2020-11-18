@@ -1,0 +1,4 @@
+C:\LEONARDO\projetos\BDProjeto\ConexaoBD\obj\Debug\DOS.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\LEONARDO\projetos\ApreensaoVeiculo\ConexaoBD\obj\Debug\DOS.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\ApreensaoVeiculo\ConexaoBD\obj\Debug\ConexaoBD.exe

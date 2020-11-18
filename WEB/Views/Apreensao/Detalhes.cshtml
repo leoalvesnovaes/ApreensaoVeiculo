@@ -1,0 +1,170 @@
+﻿@model ApreensaoVeiculo.Dominio.Apreensao
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2 >Detalhes da Apreensão</h2>
+
+<div>
+    @*<h4>Detalhes da Apreensao</h4>*@
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Placa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Placa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataApreensao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataApreensao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataLiberacao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataLiberacao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GuiaRecolhimento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GuiaRecolhimento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LocalRecolhimento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LocalRecolhimento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Motivo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Motivo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cnh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cnh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cpf)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cpf)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rg)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rg)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Renavan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Renavan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Marca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Marca)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Modelo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Modelo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Versao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Versao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ano)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ano)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Km)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Km)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Portas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Portas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cor)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Editar", new { id = Model.Codigo }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

@@ -1,0 +1,14 @@
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.dll
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.pdb
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Dominio.dll
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Dominio.pdb
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.dll
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.pdb
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.pdb
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Repositorio\bin\Debug\BDProjeto.Dominio.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Repositorio\bin\Debug\BDProjeto.Dominio.pdb
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Repositorio\obj\Debug\BDProjeto.RepositorioADO.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.pdb

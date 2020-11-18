@@ -1,0 +1,6 @@
+C:\LEONARDO\projetos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\LEONARDO\projetos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\LEONARDO\projetos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\LEONARDO\projetos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\LEONARDO\projetos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.pdb

@@ -1,0 +1,9 @@
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Aplicacao\bin\Release\BDProjeto.Aplicacao.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Aplicacao\bin\Release\BDProjeto.Aplicacao.pdb
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Aplicacao\bin\Release\BDProjeto.Dominio.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Aplicacao\bin\Release\BDProjeto.Repositorio.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Aplicacao\bin\Release\BDProjeto.Dominio.pdb
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Aplicacao\bin\Release\BDProjeto.Repositorio.pdb
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Aplicacao\obj\Release\BDProjeto.Aplicacao.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Aplicacao\obj\Release\BDProjeto.Aplicacao.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Aplicacao\obj\Release\BDProjeto.Aplicacao.pdb

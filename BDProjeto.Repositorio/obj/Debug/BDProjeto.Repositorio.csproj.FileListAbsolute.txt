@@ -1,0 +1,5 @@
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.dll
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.pdb
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.dll
+C:\LEONARDO\projetos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.pdb

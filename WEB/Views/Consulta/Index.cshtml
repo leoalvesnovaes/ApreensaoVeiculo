@@ -1,0 +1,83 @@
+﻿@model ApreensaoVeiculo.Dominio.Consulta
+
+@{
+    ViewBag.Title = "Consulta Apreensão";
+}
+
+<h2>Consulta Apreensão</h2>
+
+
+
+@*<p>
+        @Html.ActionLink("Cadastrar", "Cadastrar")
+    </p>*@
+<table class="table">
+
+    @if (Model.ListaApreensao.Count() > 0)
+    {
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => Model.ListaApreensao.ElementAt(0).Placa)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => Model.ListaApreensao.ElementAt(0).Modelo)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => Model.ListaApreensao.ElementAt(0).DataApreensao)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => Model.ListaApreensao.ElementAt(0).Nome)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => Model.ListaApreensao.ElementAt(0).QtdeDias)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => Model.ListaApreensao.ElementAt(0).ValorTotal)
+            </th>
+
+            <th></th>
+
+        </tr>
+    }
+
+    @foreach (var apreensao in Model.ListaApreensao)
+    {
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => apreensao.Placa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => apreensao.Modelo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => apreensao.DataApreensao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => apreensao.Nome)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => apreensao.QtdeDias)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => apreensao.ValorTotal)
+            </td>
+            <td>
+                @Html.ActionLink("Liberar", "Liberar", new { id = apreensao.Codigo }) |
+                @Html.ActionLink("Detalhes", "Detalhes", new { id = apreensao.Codigo })
+                @* @Html.ActionLink("Excluir", "Excluir", new { id = item.Codigo })*@
+            </td>
+        </tr>
+
+    }
+
+
+</table>

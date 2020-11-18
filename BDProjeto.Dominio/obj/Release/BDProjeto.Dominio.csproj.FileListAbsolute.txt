@@ -1,0 +1,14 @@
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\BDProjeto.Dominio.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\BDProjeto.Dominio.pdb
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\Iesi.Collections.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\NHibernate.DataAnnotations.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\NHibernate.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\Portable.DataAnnotations.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\WCF.Validation.Contracts.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\WCF.Validation.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\Iesi.Collections.xml
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\NHibernate.xml
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\bin\Release\Portable.DataAnnotations.pdb
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\obj\Release\BDProjeto.Dominio.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\obj\Release\BDProjeto.Dominio.dll
+C:\LEONARDO\projetos\BDProjeto - até aula 46\BDProjeto.Dominio\obj\Release\BDProjeto.Dominio.pdb

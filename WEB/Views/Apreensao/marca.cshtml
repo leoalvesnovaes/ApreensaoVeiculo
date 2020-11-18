@@ -1,0 +1,28 @@
+﻿@model ApreensaoVeiculo.Dominio.Marca
+
+@{
+    ViewBag.Title = "marca";
+}
+
+
+<div>
+    <h2>Macoratti .net  - DropDownList com seleção múltipla </h2>
+    <hr />
+    <div>
+        DropDownList - multiple
+        <br />
+        @Html.DropDownList("codigo", (MultiSelectList)ViewBag.Marca, new { multiple = "multiple" })
+        <br />
+        ListBox
+        <br />
+        @Html.ListBox("codigo", (MultiSelectList)ViewBag.Marca)
+    </div>
+</div>
+
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

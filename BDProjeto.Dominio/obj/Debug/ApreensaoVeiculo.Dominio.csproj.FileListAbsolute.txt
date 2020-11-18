@@ -1,0 +1,14 @@
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.pdb
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\Iesi.Collections.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\NHibernate.DataAnnotations.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\NHibernate.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\Portable.DataAnnotations.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\WCF.Validation.Contracts.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\WCF.Validation.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\Iesi.Collections.xml
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\NHibernate.xml
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\bin\Debug\Portable.DataAnnotations.pdb
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\obj\Debug\ApreensaoVeiculo.Dominio.csprojResolveAssemblyReference.cache
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.dll
+C:\LEONARDO\projetos\ApreensaoVeiculo\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.pdb
